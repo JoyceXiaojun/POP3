@@ -1,0 +1,2 @@
+Return-Path: <test1@look.com>Delivered-To: user3@xiaojun.comReceived: (winmail server invoked for smtp delivery); Mon, 25 Oct 2004 14:24:27 +0800From: test1@look.comTo: user3@xiaojun.comDate: Mon, 25 Oct 2004 14:24:27 +0800Subject: test mail
+Hi, user3This is a test mail, you don't reply it.
